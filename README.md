@@ -4,4 +4,6 @@ Wi-CaL is a simultaneous crowd estimation system including crowd counting and cr
 ## Components
 
 ### Datasets
-(1) counting & localization
+(1) small-sized room
+
+(2) medium-sized room
